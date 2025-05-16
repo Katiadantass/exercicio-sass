@@ -1,4 +1,4 @@
-### **Atividade – Módulo 15** ###
+### Atividade – Módulo 15
 
 Neste exercício você deve:
 
